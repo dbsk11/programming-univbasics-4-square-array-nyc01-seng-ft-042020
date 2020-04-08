@@ -9,4 +9,4 @@ def square_array(array)
   binding.pry
 end
 
-square_array(array)
+square_array(Array)
